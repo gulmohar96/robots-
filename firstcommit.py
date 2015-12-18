@@ -1,5 +1,5 @@
 #FIRST COMMIT
-# So yea guys, this is a chill thing, we make robots, we dont keep good a goodreadmefile but this is us.
+# So yea guys, this is a chill thing, we make robots, we dont keep a goodreadmefile but this is us.
 # alrighty then 
 # xoxo
 
